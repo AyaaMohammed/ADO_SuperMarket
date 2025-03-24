@@ -1,0 +1,13 @@
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\bin\Debug\net8.0-windows\appsettings.json
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\bin\Debug\net8.0-windows\DataAccessLayer.deps.json
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\bin\Debug\net8.0-windows\DataAccessLayer.dll
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.csproj.AssemblyReference.cache
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.AssemblyInfoInputs.cache
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.AssemblyInfo.cs
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.dll
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\obj\Debug\net8.0-windows\refint\DataAccessLayer.dll
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.pdb
+E:\C#\ADO-PROJECT\SuperMarket\DataAccessLayer\obj\Debug\net8.0-windows\ref\DataAccessLayer.dll

@@ -1,0 +1,16 @@
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\bin\Debug\net8.0-windows\appsettings.json
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\bin\Debug\net8.0-windows\DataBusinessLayer.deps.json
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\bin\Debug\net8.0-windows\DataBusinessLayer.dll
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\bin\Debug\net8.0-windows\DataBusinessLayer.pdb
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\bin\Debug\net8.0-windows\DataAccessLayer.dll
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\obj\Debug\net8.0-windows\DataBusinessLayer.csproj.AssemblyReference.cache
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\obj\Debug\net8.0-windows\DataBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\obj\Debug\net8.0-windows\DataBusinessLayer.AssemblyInfoInputs.cache
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\obj\Debug\net8.0-windows\DataBusinessLayer.AssemblyInfo.cs
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\obj\Debug\net8.0-windows\DataBusinessLayer.csproj.CoreCompileInputs.cache
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\obj\Debug\net8.0-windows\DataBusi.8B057C7C.Up2Date
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\obj\Debug\net8.0-windows\DataBusinessLayer.dll
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\obj\Debug\net8.0-windows\refint\DataBusinessLayer.dll
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\obj\Debug\net8.0-windows\DataBusinessLayer.pdb
+E:\C#\ADO-PROJECT\SuperMarket\DataBusinessLayer\obj\Debug\net8.0-windows\ref\DataBusinessLayer.dll

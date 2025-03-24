@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\ADO-PROJECT\\SuperMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7663BB90-ADC8-4996-B100-9CF970D77434}|SuperMarket\\SuperMarket.csproj|e:\\c#\\ado-project\\supermarket\\supermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7663BB90-ADC8-4996-B100-9CF970D77434}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7663BB90-ADC8-4996-B100-9CF970D77434}|SuperMarket\\SuperMarket.csproj|E:\\C#\\ADO-PROJECT\\SuperMarket\\supermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7663BB90-ADC8-4996-B100-9CF970D77434}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|e:\\c#\\ado-project\\supermarket\\databusinesslayer\\entitymanagers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|solutionrelative:databusinesslayer\\entitymanagers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|e:\\c#\\ado-project\\supermarket\\databusinesslayer\\entitymanagers\\suppliermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|solutionrelative:databusinesslayer\\entitymanagers\\suppliermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|e:\\c#\\ado-project\\supermarket\\databusinesslayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|solutionrelative:databusinesslayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7663BB90-ADC8-4996-B100-9CF970D77434}|SuperMarket\\SuperMarket.csproj|e:\\c#\\ado-project\\supermarket\\supermarket\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7663BB90-ADC8-4996-B100-9CF970D77434}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FB64D8-BD85-4980-8E1B-B79D9ADB2963}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c#\\ado-project\\supermarket\\dataaccesslayer\\dbmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FB64D8-BD85-4980-8E1B-B79D9ADB2963}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dbmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|e:\\c#\\ado-project\\supermarket\\databusinesslayer\\entities\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|solutionrelative:databusinesslayer\\entities\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|e:\\c#\\ado-project\\supermarket\\databusinesslayer\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|solutionrelative:databusinesslayer\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|e:\\c#\\ado-project\\supermarket\\databusinesslayer\\entitymanagers\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|solutionrelative:databusinesslayer\\entitymanagers\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|e:\\c#\\ado-project\\supermarket\\databusinesslayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3D77B2-43D1-41D9-87D6-72D2390D08B5}|DataBusinessLayer\\DataBusinessLayer.csproj|solutionrelative:databusinesslayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FB64D8-BD85-4980-8E1B-B79D9ADB2963}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c#\\ado-project\\supermarket\\dataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39FB64D8-BD85-4980-8E1B-B79D9ADB2963}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7663BB90-ADC8-4996-B100-9CF970D77434}|SuperMarket\\SuperMarket.csproj|e:\\c#\\ado-project\\supermarket\\supermarket\\supermarket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7663BB90-ADC8-4996-B100-9CF970D77434}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\supermarket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\SuperMarket\\Form1.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Form1.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\SuperMarket\\Form1.cs",
+              "RelativeToolTip": "SuperMarket\\Form1.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAmwI0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:21:45.313Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierManager.cs",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\EntityManagers\\SupplierManager.cs",
+              "RelativeDocumentMoniker": "DataBusinessLayer\\EntityManagers\\SupplierManager.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\EntityManagers\\SupplierManager.cs",
+              "RelativeToolTip": "DataBusinessLayer\\EntityManagers\\SupplierManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:24:30.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Supply.cs",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\Entities\\Supply.cs",
+              "RelativeDocumentMoniker": "DataBusinessLayer\\Entities\\Supply.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\Entities\\Supply.cs",
+              "RelativeToolTip": "DataBusinessLayer\\Entities\\Supply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:13:10.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\EntityManagers\\ProductManager.cs",
+              "RelativeDocumentMoniker": "DataBusinessLayer\\EntityManagers\\ProductManager.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\EntityManagers\\ProductManager.cs",
+              "RelativeToolTip": "DataBusinessLayer\\EntityManagers\\ProductManager.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:50:11.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\EntityManagers\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "DataBusinessLayer\\EntityManagers\\CategoryManager.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\EntityManagers\\CategoryManager.cs",
+              "RelativeToolTip": "DataBusinessLayer\\EntityManagers\\CategoryManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:55:27.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "DataBusinessLayer\\Entities\\Supplier.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\Entities\\Supplier.cs",
+              "RelativeToolTip": "DataBusinessLayer\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:07:36.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "DataBusinessLayer\\Entities\\Category.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "DataBusinessLayer\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:58:05.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "DataBusinessLayer\\Entities\\Product.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataBusinessLayer\\Entities\\Product.cs",
+              "RelativeToolTip": "DataBusinessLayer\\Entities\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:54:43.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBManger.cs",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataAccessLayer\\DBManger.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DBManger.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataAccessLayer\\DBManger.cs",
+              "RelativeToolTip": "DataAccessLayer\\DBManger.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:45:03.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataAccessLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccessLayer\\appsettings.json",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\DataAccessLayer\\appsettings.json",
+              "RelativeToolTip": "DataAccessLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T22:45:28.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SuperMarket.csproj",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\SuperMarket\\SuperMarket.csproj",
+              "RelativeDocumentMoniker": "SuperMarket\\SuperMarket.csproj",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\SuperMarket\\SuperMarket.csproj",
+              "RelativeToolTip": "SuperMarket\\SuperMarket.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T20:45:37.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\SuperMarket\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Form1.Designer.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\SuperMarket\\Form1.Designer.cs",
+              "RelativeToolTip": "SuperMarket\\Form1.Designer.cs",
+              "ViewState": "AgIAAHUCAAAAAAAAAAAAAIUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:21:58.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\ADO-PROJECT\\SuperMarket\\SuperMarket\\Form1.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Form1.cs",
+              "ToolTip": "E:\\C#\\ADO-PROJECT\\SuperMarket\\SuperMarket\\Form1.cs [Design]",
+              "RelativeToolTip": "SuperMarket\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:55:48.962Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
